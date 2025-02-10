@@ -6,7 +6,7 @@
 
 ---
 
-<h2 align="center">About Me</h2>
+<h2 align="center">About Me!</h2>
 
 <p align="center">
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="500" alt="Coding gif" />
