@@ -7,11 +7,6 @@
 ---
 
 <h2 align="center">About Me!</h2>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="500" alt="Coding gif" />
-</p>
-
 <ul>
   <li>✨ <strong>Creating bugs</strong> since 2021</li>
   <li>📚 Currently learning <strong>TypeScript</strong> and <strong>Golang</strong></li>
@@ -51,11 +46,8 @@
   <a href="https://www.linkedin.com/in/daffasatrianegara" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:your.email@example.com" target="_blank">
+  <a href="mailto:daffasatria036@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://twitter.com/yourhandle" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
 </p>
 
