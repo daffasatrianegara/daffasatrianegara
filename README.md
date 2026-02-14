@@ -20,7 +20,7 @@
 
 ### 🧐 About Me
 
-<p align="center">
+<p>
 I'm a passionate developer who loves building things for the web. Currently focusing on scalability and performance.
 </p>
 
